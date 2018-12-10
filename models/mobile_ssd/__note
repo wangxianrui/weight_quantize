@@ -1,0 +1,7 @@
+#################
+coco.py:
+class COCODetection(data.Dataset):
+    def __init__:
+
+    def image_path_from_index
+

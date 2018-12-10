@@ -1,0 +1,5 @@
+pytorch
+numpy
+opencv-python
+imgaug
+cython
